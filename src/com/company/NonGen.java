@@ -23,7 +23,7 @@ class NonGen {
 class NonGenDemo {
     public static void main(String args[]) {
         NonGen iOb;
-//создать объе кт типа NonGen и сохранить в нем
+//создать объект типа NonGen и сохранить в нем
 //объект типа Integer. Выполняется автоупаковка
         iOb = new NonGen(88);
 //показать тип данных, хранящихся в переменной iOb
